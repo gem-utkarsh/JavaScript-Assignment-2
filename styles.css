@@ -1,0 +1,29 @@
+#heading {
+  color: #ffffff;
+  background-color: rgb(182, 45, 182);
+  text-align: center;
+}
+.splitleft {
+  background-color: rgb(255, 192, 229);
+  height: 100%;
+  width: 100%;
+}
+.splitright {
+  background-color: rgb(240, 250, 255);
+  height: 100%;
+  width: 100%;
+}
+.mb-3 {
+  width: 80%;
+  margin: auto;
+}
+
+.table {
+  width: 90%;
+  margin: auto;
+  border: 2px solid black;
+  padding: auto;
+}
+tr,td{
+  border: 2px solid #000000;
+}
